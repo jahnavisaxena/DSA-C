@@ -5,7 +5,7 @@ void fifthPattern(int n)
  {
     for(int j=1;j<=n;j++)
     {
-        if(i== 1||i==n || j == 1 || j == n)
+        if(i== 1||i==n || j == 2 || j == n)
         {
             printf("* ");
         }
